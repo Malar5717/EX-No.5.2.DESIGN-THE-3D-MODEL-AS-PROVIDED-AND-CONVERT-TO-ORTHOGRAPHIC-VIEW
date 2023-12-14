@@ -1,3 +1,4 @@
+![5 2 drawing](https://github.com/Malar5717/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/138849172/a6430c3c-2723-4280-916f-6ebab60050b9)
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
@@ -36,6 +37,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![5 2 drawing](https://github.com/Malar5717/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/138849172/72a406b4-c3f9-4445-9286-7c0a6102ea0d)
 
 
 ## RESULT:
